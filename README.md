@@ -1,7 +1,7 @@
 Project - A Concert Booking Service
 ==========
 
-The aim of this project is to build a Web service for concert booking. Disclaimer: this project was a University assigned task which I completed with two other class mates, this repository is just a recreation of that project for display purposes since the original repository is private.
+The aim of this project is to build a Web service for concert booking. Disclaimer: This project was a university-assigned task that I completed with two other classmates. This repository is just a recreation of that project for display purposes since the original repository is private.
 
 System description
 ----------
