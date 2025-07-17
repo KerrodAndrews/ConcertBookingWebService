@@ -84,7 +84,7 @@ Whichever IDE you use, the first step will be to download a Tomcat installation,
 
 5. Right-click the newly created server, and choose *Open*. here, you can configure the *HTTP/1.1* port on the right (say, to 10000). Save the config (`Ctrl+s`).
 
-6. In the above menu, you can also see / change the *Server path* and *Deploy path*. the default is something like `.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps` - which you can use, or you can change it to anywhere on your machine. Again, save the config.
+6. In the above menu, you can also see / change the *Server path* and *Deploy path*. The default is something like `.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps` - which you can use, or you can change it to anywhere on your machine. Again, save the config.
 
 7. Run maven's `package` goal to create the WARs if you haven't already done so.
 
